@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mucyo-coder
 - 👀 I’m interested in ...arduino open source programing, web developement and data science in machine learning
-- 🌱 I’m currently learning ... machine learning and blockchain technology
+- 🌱 I’m currently learning ... machine learning and automation using microcontrollers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mucyof2002@gmail.com
 
